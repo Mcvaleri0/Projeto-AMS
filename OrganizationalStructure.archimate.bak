@@ -472,10 +472,6 @@
         <bounds x="157" y="-20" width="128" height="41"/>
         <sourceConnection xsi:type="archimate:Connection" id="4dec4cc5-a9ed-43e6-b6ce-fd5e67b5b3ba" source="a83fa882-9fb6-4eee-8cd2-a894aefe650f" target="22fdf8f1-bfcd-4a61-9057-b42e503e9fec" archimateRelationship="393d8748-e366-4399-9a23-cf229ac0d2dc"/>
       </child>
-      <child xsi:type="archimate:Note" id="82d8aedf-a5c7-4749-be76-80d17623374e" textAlignment="1">
-        <bounds x="420" width="61" height="25"/>
-        <content>manages</content>
-      </child>
     </element>
   </folder>
 </archimate:model>
